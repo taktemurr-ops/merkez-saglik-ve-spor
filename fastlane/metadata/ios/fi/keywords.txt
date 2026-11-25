@@ -1,0 +1,1 @@
+askelmittari,intervalliajastin,kotitreeni,venyttelyohjelmat,joogasarjat,juoksuseuranta,bmi,laskuri

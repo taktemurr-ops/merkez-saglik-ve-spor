@@ -1,0 +1,1 @@
+contador,timer,intervalos,treino,casa,rotinas,alongamento,sequências,ioga,registro,corrida,pedal,imc
