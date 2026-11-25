@@ -158,9 +158,6 @@ dependency_overrides:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
       ref: 7746af76318c0b1d637ef68b35bedffb5fc135a6
-  # camera 0.11 -> camera_android_camerax 0.6.x güncel Android derleyicisiyle
-  # (camera-core 1.5.3 jspecify) derlenmiyor; merkez-arac-kutusu gibi 0.12 kullan.
-  camera: ^0.12.0
 
 dev_dependencies:
   flutter_test:
