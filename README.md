@@ -56,3 +56,6 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Rüya Günlüğü | [uyg-ruya-gunlugu](https://github.com/taktemurr-ops/uyg-ruya-gunlugu) |
 | Diş Fırçalama Zamanlayıcı | [uyg-dis-fircalama-zamanlayici](https://github.com/taktemurr-ops/uyg-dis-fircalama-zamanlayici) |
 | Nabız Tahmini (Kamera) | [uyg-nabiz-olcer](https://github.com/taktemurr-ops/uyg-nabiz-olcer) |
+| 30 Gün Meydan Okuma | [uyg-30-gun-meydan-okuma](https://github.com/taktemurr-ops/uyg-30-gun-meydan-okuma) |
+| Kafein Takibi | [uyg-kafein-takibi](https://github.com/taktemurr-ops/uyg-kafein-takibi) |
+| Yürüyüş Rotaları | [uyg-yuruyus-rotalari](https://github.com/taktemurr-ops/uyg-yuruyus-rotalari) |
