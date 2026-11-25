@@ -1,7 +1,7 @@
-30 ferramentas offline de bem-estar e esporte
+33 ferramentas offline de bem-estar e esporte
 
-• Movimento: Contador de passos, Timer de intervalos, Treino em casa, Rotinas de alongamento, Sequências de ioga, Registro de corrida, Registro de pedal, Diário de musculação
-• Nutrição: Lembrete de água, Controle de peso, Calculadora de IMC, Contador de calorias, Timer de jejum, Calculadora de macros
+• Movimento: Contador de passos, Timer de intervalos, Treino em casa, Rotinas de alongamento, Sequências de ioga, Registro de corrida, Registro de pedal, Diário de musculação, Desafio de 30 dias, Rotas de caminhada
+• Nutrição: Lembrete de água, Controle de peso, Calculadora de IMC, Contador de calorias, Timer de jejum, Calculadora de macros, Controle de cafeína
 • Mente e sono: Diário do sono, Respire e relaxe, Parar de fumar, Diário de humor, Diário de gratidão, Diário de sonhos
 • Registros e testes: Diário de pressão e glicose, Lembrete de remédios, Exercícios para os olhos, Teste de visão e cores, Teste de audição, Lembrete de postura, Estimativa de pulso (câmera)
 • Ferramentas esportivas: Relógio de xadrez, Organizador de torneios, Timer de escovação

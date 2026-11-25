@@ -1,7 +1,7 @@
-30 offline na gamit sa wellness at fitness
+33 offline na gamit sa wellness at fitness
 
-• Galaw: Step Counter, Interval Timer, Ehersisyo sa Bahay, Stretching Routines, Yoga Flows, Run Tracker, Ride Tracker, Log ng Strength Training
-• Nutrisyon: Paalala sa Pag-inom ng Tubig, Tracker ng Timbang, BMI Calculator, Calorie Counter, Fasting Timer, Macro Calculator
+• Galaw: Step Counter, Interval Timer, Ehersisyo sa Bahay, Stretching Routines, Yoga Flows, Run Tracker, Ride Tracker, Log ng Strength Training, 30-araw na hamon, Mga ruta sa paglalakad
+• Nutrisyon: Paalala sa Pag-inom ng Tubig, Tracker ng Timbang, BMI Calculator, Calorie Counter, Fasting Timer, Macro Calculator, Caffeine tracker
 • Isip at tulog: Talaarawan ng Tulog, Huminga at Mag-relax, Tumigil sa Paninigarilyo, Talaarawan ng Damdamin, Talaarawan ng Pasasalamat, Talaarawan ng Panaginip
 • Log at pagsusuri: Log ng Presyon at Asukal, Paalala sa Gamot, Ehersisyo sa Mata, Pagsusuri ng Paningin at Kulay, Pagsusuri ng Pandinig, Paalala sa Tindig, Tantiya ng Pulso (Camera)
 • Mga gamit sa isports: Orasan sa Chess, Tournament Planner, Toothbrush Timer

@@ -1,7 +1,7 @@
-30 herramientas de bienestar y deporte sin conexión
+33 herramientas de bienestar y deporte sin conexión
 
-• Movimiento: Podómetro, Temporizador de intervalos, Ejercicio en casa, Rutinas de estiramiento, Secuencias de yoga, Registro de carreras, Registro de ciclismo, Diario de pesas
-• Nutrición: Recordatorio de agua, Control de peso, Calculadora de IMC, Contador de calorías, Temporizador de ayuno, Calculadora de macros
+• Movimiento: Podómetro, Temporizador de intervalos, Ejercicio en casa, Rutinas de estiramiento, Secuencias de yoga, Registro de carreras, Registro de ciclismo, Diario de pesas, Reto de 30 días, Rutas a pie
+• Nutrición: Recordatorio de agua, Control de peso, Calculadora de IMC, Contador de calorías, Temporizador de ayuno, Calculadora de macros, Control de cafeína
 • Mente y sueño: Diario de sueño, Respira y relájate, Dejar de fumar, Diario de ánimo, Diario de gratitud, Diario de sueños
 • Registros y pruebas: Registro de tensión y glucosa, Recordatorio de medicamentos, Ejercicios para los ojos, Prueba de visión y color, Prueba de audición, Recordatorio de postura, Estimación de pulso (cámara)
 • Herramientas deportivas: Reloj de ajedrez, Organizador de torneos, Temporizador de cepillado

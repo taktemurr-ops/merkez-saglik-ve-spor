@@ -1,7 +1,7 @@
-30 offline tools voor welzijn en fitness
+33 offline tools voor welzijn en fitness
 
-• Bewegen: Stappenteller, Intervaltimer, Thuistraining, Rekroutines, Yogaflows, Hardlooptracker, Fietstracker, Krachttrainingslogboek
-• Voeding: Drinkherinnering, Gewichtsdagboek, BMI-calculator, Calorieteller, Vastentimer, Macrocalculator
+• Bewegen: Stappenteller, Intervaltimer, Thuistraining, Rekroutines, Yogaflows, Hardlooptracker, Fietstracker, Krachttrainingslogboek, 30-dagenuitdaging, Wandelroutes
+• Voeding: Drinkherinnering, Gewichtsdagboek, BMI-calculator, Calorieteller, Vastentimer, Macrocalculator, Cafeïnetracker
 • Geest en slaap: Slaapdagboek, Ademen en ontspannen, Stoppen met roken, Stemmingsdagboek, Dankbaarheidsdagboek, Droomdagboek
 • Logboeken en tests: Bloeddruk- en suikerdagboek, Medicijnherinnering, Oogoefeningen, Zicht- en kleurtest, Gehoortest, Houdingherinnering, Hartslagschatting (camera)
 • Sporttools: Schaakklok, Toernooiplanner, Tandenpoetstimer

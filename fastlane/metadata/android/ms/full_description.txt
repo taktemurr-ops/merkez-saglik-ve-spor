@@ -1,7 +1,7 @@
-30 alat kesejahteraan dan kecergasan luar talian
+33 alat kesejahteraan dan kecergasan luar talian
 
-• Pergerakan: Pengira Langkah, Pemasa Selang, Senaman di Rumah, Rutin Regangan, Aliran Yoga, Penjejak Larian, Penjejak Berbasikal, Log Latihan Bebanan
-• Pemakanan: Peringatan Minum Air, Penjejak Berat Badan, Kalkulator BMI, Pengira Kalori, Pemasa Puasa, Kalkulator Makro
+• Pergerakan: Pengira Langkah, Pemasa Selang, Senaman di Rumah, Rutin Regangan, Aliran Yoga, Penjejak Larian, Penjejak Berbasikal, Log Latihan Bebanan, Cabaran 30 hari, Laluan berjalan
+• Pemakanan: Peringatan Minum Air, Penjejak Berat Badan, Kalkulator BMI, Pengira Kalori, Pemasa Puasa, Kalkulator Makro, Penjejak kafein
 • Minda dan tidur: Diari Tidur, Nafas dan Tenang, Berhenti Merokok, Jurnal Mood, Jurnal Bersyukur, Jurnal Mimpi
 • Log dan semakan: Log Tekanan Darah dan Gula, Peringatan Ubat, Senaman Mata, Ujian Penglihatan dan Warna, Ujian Pendengaran, Peringatan Postur, Anggaran Nadi (Kamera)
 • Alat sukan: Jam Catur, Perancang Kejohanan, Pemasa Gosok Gigi

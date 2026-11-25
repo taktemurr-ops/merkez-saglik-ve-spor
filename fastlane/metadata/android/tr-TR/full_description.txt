@@ -1,7 +1,7 @@
-30 çevrimdışı esenlik ve spor aracı
+33 çevrimdışı esenlik ve spor aracı
 
-• Hareket: Adım Sayar, Antrenman Zamanlayıcı, Ev Egzersiz Programı, Esneme Rutinleri, Yoga Akışları, Koşu Takibi, Bisiklet Takibi, Ağırlık Antrenmanı Günlüğü
-• Beslenme: Su İçme Hatırlatıcı, Kilo Takibi, Vücut Kitle İndeksi, Kalori Sayacı, Aralıklı Oruç Takibi, Makro Besin Hesaplayıcı
+• Hareket: Adım Sayar, Antrenman Zamanlayıcı, Ev Egzersiz Programı, Esneme Rutinleri, Yoga Akışları, Koşu Takibi, Bisiklet Takibi, Ağırlık Antrenmanı Günlüğü, 30 Gün Meydan Okuma, Yürüyüş Rotaları
+• Beslenme: Su İçme Hatırlatıcı, Kilo Takibi, Vücut Kitle İndeksi, Kalori Sayacı, Aralıklı Oruç Takibi, Makro Besin Hesaplayıcı, Kafein Takibi
 • Zihin ve uyku: Uyku Günlüğü, Nefes ve Meditasyon, Sigara Bırakma, Ruh Hali Günlüğü, Şükür Günlüğü, Rüya Günlüğü
 • Kayıt ve kontrol: Tansiyon ve Şeker Günlüğü, İlaç Hatırlatıcı, Göz Egzersizi, Görme ve Renk Testi, İşitme Testi, Duruş Hatırlatıcı, Nabız Tahmini (Kamera)
 • Spor araçları: Satranç Saati, Turnuva Fikstürü, Diş Fırçalama Zamanlayıcı

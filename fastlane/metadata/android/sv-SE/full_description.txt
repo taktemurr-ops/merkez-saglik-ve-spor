@@ -1,7 +1,7 @@
-30 offlineverktyg för hälsa och träning
+33 offlineverktyg för hälsa och träning
 
-• Rörelse: Stegräknare, Intervalltimer, Hemmaträning, Stretchrutiner, Yogaflöden, Löpspårare, Cykelspårare, Styrketräningslogg
-• Kost: Vattenpåminnelse, Viktdagbok, BMI-räknare, Kaloriräknare, Fastetimer, Makroräknare
+• Rörelse: Stegräknare, Intervalltimer, Hemmaträning, Stretchrutiner, Yogaflöden, Löpspårare, Cykelspårare, Styrketräningslogg, 30-dagarsutmaning, Promenadrutter
+• Kost: Vattenpåminnelse, Viktdagbok, BMI-räknare, Kaloriräknare, Fastetimer, Makroräknare, Koffeinkoll
 • Sinne och sömn: Sömndagbok, Andas och slappna av, Sluta röka, Humördagbok, Tacksamhetsdagbok, Drömdagbok
 • Loggar och tester: Dagbok för blodtryck och socker, Läkemedelspåminnelse, Ögonövningar, Syn- och färgtest, Hörseltest, Hållningspåminnelse, Pulsuppskattning (kamera)
 • Sportverktyg: Schackklocka, Turneringsplanerare, Tandborstningstimer

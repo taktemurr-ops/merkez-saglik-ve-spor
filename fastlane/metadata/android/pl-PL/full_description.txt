@@ -1,7 +1,7 @@
-30 narzędzi zdrowia i sportu offline
+33 narzędzi zdrowia i sportu offline
 
-• Ruch: Krokomierz, Minutnik interwałowy, Trening w domu, Zestawy rozciągania, Sekwencje jogi, Rejestrator biegów, Rejestrator jazdy, Dziennik treningu siłowego
-• Odżywianie: Przypomnienie o wodzie, Dziennik wagi, Kalkulator BMI, Licznik kalorii, Licznik postu przerywanego, Kalkulator makro
+• Ruch: Krokomierz, Minutnik interwałowy, Trening w domu, Zestawy rozciągania, Sekwencje jogi, Rejestrator biegów, Rejestrator jazdy, Dziennik treningu siłowego, Wyzwanie 30 dni, Trasy spacerowe
+• Odżywianie: Przypomnienie o wodzie, Dziennik wagi, Kalkulator BMI, Licznik kalorii, Licznik postu przerywanego, Kalkulator makro, Licznik kofeiny
 • Umysł i sen: Dziennik snu, Oddech i relaks, Rzuć palenie, Dziennik nastroju, Dziennik wdzięczności, Dziennik snów
 • Dzienniki i testy: Dziennik ciśnienia i cukru, Przypomnienie o lekach, Ćwiczenia oczu, Test wzroku i kolorów, Test słuchu, Przypomnienie o postawie, Szacowanie tętna (aparat)
 • Narzędzia sportowe: Zegar szachowy, Planer turniejów, Minutnik do mycia zębów
