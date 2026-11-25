@@ -1,0 +1,198 @@
+name: merkez_saglik_ve_spor
+description: "Sağlık ve Spor merkez uygulaması: 30 çevrimdışı esenlik ve spor aracı. Android, iOS ve Web. Tıbbi cihaz değildir."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  # Araçların ortak motoru
+  saglik_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/saglik-motoru
+      ref: main
+  # Merkezdeki araçlar (her biri kendi deposunda)
+  uyg_adim_sayar:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-adim-sayar
+      ref: main
+  uyg_su_icme_hatirlatici:
+    git:
+      url: https://github.com/taktemurr-ops/app-003
+      ref: main
+  uyg_kilo_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kilo-takibi
+      ref: main
+  uyg_vucut_kitle_indeksi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-vucut-kitle-indeksi
+      ref: main
+  uyg_uyku_gunlugu:
+    git:
+      url: https://github.com/taktemurr-ops/app-004
+      ref: main
+  uyg_antrenman_zamanlayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-antrenman-zamanlayici
+      ref: main
+  uyg_ev_egzersiz_programi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ev-egzersiz-programi
+      ref: main
+  uyg_nefes_ve_meditasyon:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-nefes-ve-meditasyon
+      ref: main
+  uyg_kalori_sayaci:
+    git:
+      url: https://github.com/taktemurr-ops/app-005
+      ref: main
+  uyg_aralikli_oruc_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-aralikli-oruc-takibi
+      ref: main
+  uyg_tansiyon_ve_seker_gunlugu:
+    git:
+      url: https://github.com/taktemurr-ops/app-001-health-universe
+      ref: main
+  uyg_ilac_hatirlatici:
+    git:
+      url: https://github.com/taktemurr-ops/app-013
+      ref: main
+  uyg_goz_egzersizi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-goz-egzersizi
+      ref: main
+  uyg_satranc_saati:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-satranc-saati
+      ref: main
+  uyg_turnuva_fiksturu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-turnuva-fiksturu
+      ref: main
+  uyg_gorme_ve_renk_korlugu_testi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-gorme-ve-renk-korlugu-testi
+      ref: main
+  uyg_isitme_testi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-isitme-testi
+      ref: main
+  uyg_durus_hatirlatici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-durus-hatirlatici
+      ref: main
+  uyg_esneme_rutinleri:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-esneme-rutinleri
+      ref: main
+  uyg_yoga_akislari:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-yoga-akislari
+      ref: main
+  uyg_kosu_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kosu-takibi
+      ref: main
+  uyg_bisiklet_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-bisiklet-takibi
+      ref: main
+  uyg_agirlik_antrenmani_gunlugu:
+    git:
+      url: https://github.com/taktemurr-ops/app-002-fitness-universe
+      ref: main
+  uyg_makro_besin_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/app-006
+      ref: main
+  uyg_sigara_birakma:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-sigara-birakma
+      ref: main
+  uyg_ruh_hali_gunlugu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ruh-hali-gunlugu
+      ref: main
+  uyg_sukur_gunlugu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-sukur-gunlugu
+      ref: main
+  uyg_ruya_gunlugu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ruya-gunlugu
+      ref: main
+  uyg_dis_fircalama_zamanlayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-dis-fircalama-zamanlayici
+      ref: main
+  uyg_nabiz_olcer:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-nabiz-olcer
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Bütün araçlar aynı çekirdek ve motor sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  saglik_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/saglik-motoru
+      ref: main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#0B2A33"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#0B2A33"
+    theme_color: "#0B2A33"
+
+flutter_native_splash:
+  color: "#0B2A33"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#0B2A33"
+    image: assets/branding/splash_android12.png
+  web: true
