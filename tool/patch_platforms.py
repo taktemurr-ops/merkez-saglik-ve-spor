@@ -196,7 +196,7 @@ def ios():
         for key, text in (
             ("NSMotionUsageDescription", "Hareket verisi yalnızca adım sayarda adımları saymak için kullanılır; cihazdan çıkmaz. / Motion data is used only to count steps in the step counter; it never leaves the device."),
             ("NSCameraUsageDescription", "Kamera ve flaş yalnızca nabız tahmini sırasında kullanılır; görüntü kaydedilmez. / The camera and flash are used only during the pulse estimate; no images are saved."),
-            ("NSLocationWhenInUseUsageDescription", "Konum yalnızca koşu/bisiklet kaydı açıkken mesafeyi ölçmek için kullanılır; gönderilmez. / Location is used only while recording a run or ride to measure distance; it is never sent."),
+            ("NSLocationWhenInUseUsageDescription", "Konum yalnızca koşu/bisiklet/yürüyüş kaydı açıkken mesafeyi ölçmek ve rotayı çizmek için kullanılır; gönderilmez. / Location is used only while recording a run, ride or walk to measure distance and draw the route; it is never sent."),
         ):
             if key not in s:
                 extra += "\t<key>%s</key>\n\t<string>%s</string>\n" % (key, text)

@@ -13,12 +13,12 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   # Araçların ortak motoru
   saglik_motoru:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
-      ref: 00b7d44890d4e349d4df99fa82b4896abc671462
+      ref: f616d53d25990a0f092f60d12498faf8ba4d4dac
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_adim_sayar:
     git:
@@ -140,6 +140,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-nabiz-olcer
       ref: 16f6da9069da06e709a84780e119abf4b65d16c8
+  uyg_30_gun_meydan_okuma:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-30-gun-meydan-okuma
+      ref: 73dc34ac1db68de56a531e891fc3d9e2eb608571
+  uyg_kafein_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kafein-takibi
+      ref: 8091b8ac21ac41dc117f13941bd638c10b54191e
+  uyg_yuruyus_rotalari:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-yuruyus-rotalari
+      ref: 9e9e5af8356646679cf602254bc0ce038ac329e7
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -153,11 +165,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   saglik_motoru:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
-      ref: 00b7d44890d4e349d4df99fa82b4896abc671462
+      ref: f616d53d25990a0f092f60d12498faf8ba4d4dac
 
 dev_dependencies:
   flutter_test:

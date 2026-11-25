@@ -7,9 +7,9 @@ import 'package:studio_core/apps/apps.dart';
 import 'package:studio_core/core/save_store.dart';
 
 void main() {
-  test('merkezde 30 araç benzersiz kimlikle, 33 dilde', () {
-    expect(hubConfig.tools.length, 30);
-    expect(hubConfig.tools.map((t) => t.id).toSet().length, 30);
+  test('merkezde 33 araç benzersiz kimlikle, 33 dilde', () {
+    expect(hubConfig.tools.length, 33);
+    expect(hubConfig.tools.map((t) => t.id).toSet().length, 33);
     for (final t in hubConfig.tools) {
       expect(t.title.length, 33, reason: t.id);
       expect(hubConfig.categories.any((c) => c.id == t.category), isTrue, reason: t.id);
@@ -19,7 +19,7 @@ void main() {
     }
   });
 
-  testWidgets('merkez açılır ve "30 Uygulama" yazar', (tester) async {
+  testWidgets('merkez açılır ve "33 Uygulama" yazar', (tester) async {
     final s = AppServices(hubId: hubConfig.hubId, backend: MemoryBackend(), ads: NoAdsService(), purchases: NoPurchaseService());
     await s.load();
     await s.setConsent(false);
@@ -29,7 +29,7 @@ void main() {
     addTearDown(tester.view.reset);
     await tester.pumpWidget(AppHubApp(config: hubConfig, services: s));
     await tester.pumpAndSettle();
-    expect(find.text(appTx('n_apps', 'tr', {'n': 30})), findsOneWidget);
+    expect(find.text(appTx('n_apps', 'tr', {'n': 33})), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
 }

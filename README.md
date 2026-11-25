@@ -1,7 +1,7 @@
 # Sağlık ve Spor · Health & Fitness (merkez-saglik-ve-spor)
 
-Sağlık ve Spor ailesinin **merkez uygulaması**: 30 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "30 Uygulama",
+Sağlık ve Spor ailesinin **merkez uygulaması**: 33 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "33 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [saglik-motoru](https://github.com/taktemurr-ops/saglik-motoru)

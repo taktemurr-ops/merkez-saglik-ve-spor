@@ -31,8 +31,11 @@ import 'package:uyg_turnuva_fiksturu/uyg_turnuva_fiksturu.dart';
 import 'package:uyg_uyku_gunlugu/uyg_uyku_gunlugu.dart';
 import 'package:uyg_vucut_kitle_indeksi/uyg_vucut_kitle_indeksi.dart';
 import 'package:uyg_yoga_akislari/uyg_yoga_akislari.dart';
+import 'package:uyg_30_gun_meydan_okuma/uyg_30_gun_meydan_okuma.dart';
+import 'package:uyg_kafein_takibi/uyg_kafein_takibi.dart';
+import 'package:uyg_yuruyus_rotalari/uyg_yuruyus_rotalari.dart';
 
-/// Sağlık ve Spor: 30 çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Sağlık ve Spor: 33 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -73,6 +76,9 @@ final hubConfig = AppHubConfig(
     ruyaGunluguTool,
     disFircalamaZamanlayiciTool,
     nabizOlcerTool,
+    otuzGunMeydanOkumaTool,
+    kafeinTakibiTool,
+    yuruyusRotalariTool,
   ],
   featured: saglikFeatured,
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-saglik-ve-spor/blob/main/PRIVACY.md',
