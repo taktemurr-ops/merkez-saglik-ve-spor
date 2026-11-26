@@ -9,6 +9,7 @@ _Son güncelleme / Last updated: 2026-11-26_
 - **Hareket sensörü / fiziksel etkinlik** izni yalnızca adım sayarda adımları saymak için kullanılır.
 - **Konum** yalnızca koşu ve bisiklet kaydı açıkken mesafeyi ölçmek için kullanılır; arka planda izlenmez, gönderilmez. Rota çizimi cihazda kalır.
 - **Kamera ve flaş** yalnızca nabız tahmini (eğlence/esenlik amaçlı) sırasında kullanılır; görüntü kaydedilmez ve gönderilmez.
+- **Mikrofon** yalnızca Uyku Sesi Kaydı'nda, siz gece kaydını başlattığınızda ses düzeyini ölçmek için kullanılır. İsterseniz ses olaylarının kısa kesitleri (en fazla 20 sn) yalnızca uygulamanın cihazdaki klasöründe saklanır; hiçbir yere gönderilmez ve gece silindiğinde silinir. Araç horlama, uyku apnesi ya da başka bir durumu tespit etmez, teşhis koymaz.
 - **Bildirimler** yalnızca sizin kurduğunuz hatırlatmalar (su, ilaç, duruş, göz molası, uyku, oruç sonu) için kullanılır.
 - Ruh hali günlüğünde yazdıklarınız cihazda kalır. Kriz sözcükleri fark edilirse yalnızca ekranda yardım hattı bilgisi gösterilir; hiçbir şey gönderilmez. "findahelpline.com" bağlantısı yalnızca siz dokunursanız tarayıcıda açılır.
 - Besin değerleri USDA FoodData Central (kamu malı) genel kayıtlarına ve geleneksel yemekler için özgün tahminlere dayanır; yaklaşık değerlerdir.
@@ -25,6 +26,7 @@ _Son güncelleme / Last updated: 2026-11-26_
 - **Motion / physical activity** permission is used only to count steps in the step counter.
 - **Location** is used only while a run or ride is being recorded, to measure distance; never in the background and never sent. Route traces stay on the device.
 - The **camera and flash** are used only during the pulse estimate (for fun/wellness); no images are saved or sent.
+- The **microphone** is used only in the Sleep Sound Journal, after you start a night recording, to measure sound levels. If you choose, short clips of sound events (up to 20 s) are kept only in the app's folder on the device; they are never sent and are deleted with the night. The tool does not detect or diagnose snoring, sleep apnea or any other condition.
 - **Notifications** are used only for reminders you set (water, medicine, posture, eye breaks, bedtime, end of fast).
 - What you write in the mood journal stays on the device. If crisis words are noticed, helpline information is shown on screen only; nothing is sent. The "findahelpline.com" link opens in your browser only if you tap it.
 - Food values are based on USDA FoodData Central (public domain) records and our own estimates for traditional dishes; they are approximate.

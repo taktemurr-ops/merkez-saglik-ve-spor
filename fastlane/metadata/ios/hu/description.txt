@@ -1,10 +1,9 @@
-33 offline jólléti és sporteszköz
+35 offline jólléti és sporteszköz
 
-• Mozgás: Lépésszámláló, Intervallum-időzítő, Otthoni edzés, Nyújtó gyakorlatsorok, Jógasorozatok, Futásnapló, Kerékpárnapló, Erőedzés-napló, 30 napos kihívás, Sétaútvonalak
+• Mozgás: Lépésszámláló, Intervallum-időzítő, Otthoni edzés, Nyújtó gyakorlatsorok, Jógasorozatok, Futásnapló, Kerékpárnapló, Erőedzés-napló, 30 napos kihívás, Sétaútvonalak, Falpilates
 • Táplálkozás: Vízivás-emlékeztető, Testsúlynapló, BMI-kalkulátor, Kalóriaszámláló, Időszakos böjt időzítő, Makrokalkulátor, Koffeinkövető
-• Elme és alvás: Alvásnapló, Légzés és ellazulás, Leszokás a dohányzásról, Hangulatnapló, Hálanapló, Álomnapló
+• Elme és alvás: Alvásnapló, Légzés és ellazulás, Leszokás a dohányzásról, Hangulatnapló, Hálanapló, Álomnapló, Alvási hangnapló
 • Naplók és tesztek: Vérnyomás- és vércukornapló, Gyógyszer-emlékeztető, Szemtorna, Látás- és színteszt, Hallásteszt, Testtartás-emlékeztető, Pulzusbecslés (kamera)
 • Sporteszközök: Sakkóra, Tornatervező, Fogmosás-időzítő
 
 Csak tájékoztató és jóllétet segítő; nem orvostechnikai eszköz. Egészségügyi döntésekhez kérd szakember tanácsát.
-Nem diagnosztizál, nem kezel és nem előz meg betegséget; az olyan értékek, mint a pulzus, csak becslések.

@@ -1,10 +1,9 @@
-33 alat kesehatan dan kebugaran offline
+35 alat kesehatan dan kebugaran offline
 
-• Gerak: Penghitung Langkah, Pengatur Waktu Interval, Latihan di Rumah, Rutinitas Peregangan, Alur Yoga, Pelacak Lari, Pelacak Bersepeda, Catatan Latihan Beban, Tantangan 30 hari, Rute jalan kaki
+• Gerak: Penghitung Langkah, Pengatur Waktu Interval, Latihan di Rumah, Rutinitas Peregangan, Alur Yoga, Pelacak Lari, Pelacak Bersepeda, Catatan Latihan Beban, Tantangan 30 hari, Rute jalan kaki, Pilates Dinding
 • Nutrisi: Pengingat Minum Air, Pelacak Berat Badan, Kalkulator BMI, Penghitung Kalori, Pengatur Waktu Puasa, Kalkulator Makro, Pelacak kafein
-• Pikiran dan tidur: Jurnal Tidur, Napas dan Rileks, Berhenti Merokok, Jurnal Suasana Hati, Jurnal Syukur, Jurnal Mimpi
+• Pikiran dan tidur: Jurnal Tidur, Napas dan Rileks, Berhenti Merokok, Jurnal Suasana Hati, Jurnal Syukur, Jurnal Mimpi, Jurnal Suara Tidur
 • Catatan dan cek: Catatan Tensi dan Gula, Pengingat Obat, Senam Mata, Cek Penglihatan dan Warna, Cek Pendengaran, Pengingat Postur, Perkiraan Denyut (Kamera)
 • Alat olahraga: Jam Catur, Perencana Turnamen, Pengatur Waktu Sikat Gigi
 
 Hanya untuk informasi dan kebugaran; bukan alat medis. Tanyakan tenaga ahli untuk keputusan kesehatan.
-Tidak mendiagnosis, mengobati, atau mencegah penyakit apa pun; pengukuran seperti denyut nadi hanya perkiraan.

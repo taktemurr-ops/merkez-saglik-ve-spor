@@ -1,8 +1,8 @@
-33 offline wellness and fitness tools
+35 offline wellness and fitness tools
 
-• Move: Step Counter, Interval Timer, Home Workout, Stretching Routines, Yoga Flows, Run Tracker, Ride Tracker, Strength Training Log, 30-Day Challenge, Walking Routes
+• Move: Step Counter, Interval Timer, Home Workout, Stretching Routines, Yoga Flows, Run Tracker, Ride Tracker, Strength Training Log, 30-Day Challenge, Walking Routes, Wall Pilates
 • Nutrition: Water Reminder, Weight Tracker, BMI Calculator, Calorie Counter, Fasting Timer, Macro Calculator, Caffeine Tracker
-• Mind & sleep: Sleep Diary, Breathe & Relax, Quit Smoking, Mood Journal, Gratitude Journal, Dream Journal
+• Mind & sleep: Sleep Diary, Breathe & Relax, Quit Smoking, Mood Journal, Gratitude Journal, Dream Journal, Sleep Sound Journal
 • Logs & checks: Blood Pressure & Sugar Log, Medicine Reminder, Eye Exercises, Vision & Color Check, Hearing Check, Posture Reminder, Pulse Estimate (Camera)
 • Sports tools: Chess Clock, Tournament Planner, Toothbrush Timer
 

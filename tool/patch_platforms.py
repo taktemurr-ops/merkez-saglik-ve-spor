@@ -68,12 +68,14 @@ def android():
         # açıklama gösterilerek istenir. Arka plan konumu (ACCESS_BACKGROUND_LOCATION),
         # ön plan hizmeti ve kesin alarm (SCHEDULE_EXACT_ALARM) İSTENMEZ: koşu/bisiklet
         # yalnızca ekran açıkken izlenir, hatırlatmalar dakika hassasiyeti gerektirmez.
-        for perm in ("android.permission.ACTIVITY_RECOGNITION", "android.permission.CAMERA",
+        # RECORD_AUDIO: yalnızca Uyku Sesi Kaydı'nda, kullanıcı gece kaydını başlattığında
+        # (ekran açık kalır; ön plan hizmeti yok).
+        for perm in ("android.permission.ACTIVITY_RECOGNITION", "android.permission.CAMERA", "android.permission.RECORD_AUDIO",
                      "android.permission.ACCESS_FINE_LOCATION", "android.permission.ACCESS_COARSE_LOCATION",
                      "android.permission.POST_NOTIFICATIONS", "android.permission.RECEIVE_BOOT_COMPLETED"):
             if perm not in s:
                 s = s.replace("<application", '<uses-permission android:name="%s"/>\n    <application' % perm, 1)
-        for feat in ("android.hardware.camera", "android.hardware.camera.flash", "android.hardware.location.gps",
+        for feat in ("android.hardware.camera", "android.hardware.camera.flash", "android.hardware.location.gps", "android.hardware.microphone",
                      "android.hardware.sensor.stepcounter", "android.hardware.sensor.stepdetector"):
             if feat not in s:
                 s = s.replace("<application", '<uses-feature android:name="%s" android:required="false"/>\n    <application' % feat, 1)
@@ -196,6 +198,7 @@ def ios():
         for key, text in (
             ("NSMotionUsageDescription", "Hareket verisi yalnızca adım sayarda adımları saymak için kullanılır; cihazdan çıkmaz. / Motion data is used only to count steps in the step counter; it never leaves the device."),
             ("NSCameraUsageDescription", "Kamera ve flaş yalnızca nabız tahmini sırasında kullanılır; görüntü kaydedilmez. / The camera and flash are used only during the pulse estimate; no images are saved."),
+            ("NSMicrophoneUsageDescription", "Mikrofon yalnızca Uyku Sesi Kaydı'nda gece kaydı açıkken ses düzeyini ölçmek ve isterseniz kısa kesitleri cihaza kaydetmek için kullanılır; ses gönderilmez. / The microphone is used only in the Sleep Sound Journal while a night recording is on, to measure sound and optionally save short clips on the device; audio is never sent."),
             ("NSLocationWhenInUseUsageDescription", "Konum yalnızca koşu/bisiklet/yürüyüş kaydı açıkken mesafeyi ölçmek ve rotayı çizmek için kullanılır; gönderilmez. / Location is used only while recording a run, ride or walk to measure distance and draw the route; it is never sent."),
         ):
             if key not in s:

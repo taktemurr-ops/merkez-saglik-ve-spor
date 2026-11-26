@@ -1,8 +1,8 @@
-33 công cụ sức khỏe và thể thao ngoại tuyến
+35 công cụ sức khỏe và thể thao ngoại tuyến
 
-• Vận động: Đếm bước chân, Hẹn giờ tập ngắt quãng, Tập luyện tại nhà, Bài giãn cơ, Chuỗi động tác yoga, Theo dõi chạy bộ, Theo dõi đạp xe, Nhật ký tập tạ, Thử thách 30 ngày, Lộ trình đi bộ
+• Vận động: Đếm bước chân, Hẹn giờ tập ngắt quãng, Tập luyện tại nhà, Bài giãn cơ, Chuỗi động tác yoga, Theo dõi chạy bộ, Theo dõi đạp xe, Nhật ký tập tạ, Thử thách 30 ngày, Lộ trình đi bộ, Pilates với tường
 • Dinh dưỡng: Nhắc uống nước, Theo dõi cân nặng, Tính chỉ số BMI, Đếm calo, Hẹn giờ nhịn ăn gián đoạn, Tính dưỡng chất đa lượng, Theo dõi caffeine
-• Tinh thần và giấc ngủ: Nhật ký giấc ngủ, Thở và thư giãn, Bỏ thuốc lá, Nhật ký tâm trạng, Nhật ký biết ơn, Nhật ký giấc mơ
+• Tinh thần và giấc ngủ: Nhật ký giấc ngủ, Thở và thư giãn, Bỏ thuốc lá, Nhật ký tâm trạng, Nhật ký biết ơn, Nhật ký giấc mơ, Nhật ký âm thanh khi ngủ
 • Nhật ký và kiểm tra: Nhật ký huyết áp và đường huyết, Nhắc uống thuốc, Bài tập cho mắt, Kiểm tra thị lực và màu sắc, Kiểm tra thính lực, Nhắc tư thế, Ước tính nhịp tim (camera)
 • Công cụ thể thao: Đồng hồ cờ vua, Lập lịch giải đấu, Hẹn giờ đánh răng
 

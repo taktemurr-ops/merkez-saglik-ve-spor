@@ -1,8 +1,8 @@
-33 Offline-Tools für Wohlbefinden und Fitness
+35 Offline-Tools für Wohlbefinden und Fitness
 
-• Bewegung: Schrittzähler, Intervall-Timer, Workout zu Hause, Dehnroutinen, Yoga-Abfolgen, Lauf-Tracker, Rad-Tracker, Krafttrainingstagebuch, 30-Tage-Challenge, Wanderrouten
+• Bewegung: Schrittzähler, Intervall-Timer, Workout zu Hause, Dehnroutinen, Yoga-Abfolgen, Lauf-Tracker, Rad-Tracker, Krafttrainingstagebuch, 30-Tage-Challenge, Wanderrouten, Wand-Pilates
 • Ernährung: Trink-Erinnerung, Gewichtstagebuch, BMI-Rechner, Kalorienzähler, Fasten-Timer, Makro-Rechner, Koffein-Tracker
-• Psyche & Schlaf: Schlaftagebuch, Atmen und Entspannen, Rauchfrei, Stimmungstagebuch, Dankbarkeitstagebuch, Traumtagebuch
+• Psyche & Schlaf: Schlaftagebuch, Atmen und Entspannen, Rauchfrei, Stimmungstagebuch, Dankbarkeitstagebuch, Traumtagebuch, Schlafgeräusch-Tagebuch
 • Tagebücher & Checks: Blutdruck- und Zuckertagebuch, Medikamenten-Erinnerung, Augenübungen, Seh- und Farbcheck, Hörcheck, Haltungs-Erinnerung, Pulsschätzung (Kamera)
 • Sport-Tools: Schachuhr, Turnierplaner, Zahnputz-Timer
 

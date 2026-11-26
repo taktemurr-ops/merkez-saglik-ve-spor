@@ -8,6 +8,7 @@ import 'package:uyg_aralikli_oruc_takibi/uyg_aralikli_oruc_takibi.dart';
 import 'package:uyg_bisiklet_takibi/uyg_bisiklet_takibi.dart';
 import 'package:uyg_dis_fircalama_zamanlayici/uyg_dis_fircalama_zamanlayici.dart';
 import 'package:uyg_durus_hatirlatici/uyg_durus_hatirlatici.dart';
+import 'package:uyg_duvar_pilatesi/uyg_duvar_pilatesi.dart';
 import 'package:uyg_esneme_rutinleri/uyg_esneme_rutinleri.dart';
 import 'package:uyg_ev_egzersiz_programi/uyg_ev_egzersiz_programi.dart';
 import 'package:uyg_gorme_ve_renk_korlugu_testi/uyg_gorme_ve_renk_korlugu_testi.dart';
@@ -29,6 +30,7 @@ import 'package:uyg_sukur_gunlugu/uyg_sukur_gunlugu.dart';
 import 'package:uyg_tansiyon_ve_seker_gunlugu/uyg_tansiyon_ve_seker_gunlugu.dart';
 import 'package:uyg_turnuva_fiksturu/uyg_turnuva_fiksturu.dart';
 import 'package:uyg_uyku_gunlugu/uyg_uyku_gunlugu.dart';
+import 'package:uyg_uyku_sesi_kaydi/uyg_uyku_sesi_kaydi.dart';
 import 'package:uyg_vucut_kitle_indeksi/uyg_vucut_kitle_indeksi.dart';
 import 'package:uyg_yoga_akislari/uyg_yoga_akislari.dart';
 import 'package:uyg_30_gun_meydan_okuma/uyg_30_gun_meydan_okuma.dart';
@@ -36,7 +38,7 @@ import 'package:uyg_kafein_takibi/uyg_kafein_takibi.dart';
 import 'package:uyg_yuruyus_rotalari/uyg_yuruyus_rotalari.dart';
 import 'store_flavor.dart';
 
-/// Sağlık ve Spor: 33 çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Sağlık ve Spor: 35 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -80,6 +82,8 @@ final hubConfig = AppHubConfig(
     otuzGunMeydanOkumaTool,
     kafeinTakibiTool,
     yuruyusRotalariTool,
+    duvarPilatesiTool,
+    uykuSesiKaydiTool,
   ],
   featured: saglikFeatured,
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-saglik-ve-spor/blob/main/PRIVACY.md',

@@ -1,5 +1,5 @@
 name: merkez_saglik_ve_spor
-description: "Sağlık ve Spor merkez uygulaması: 33 çevrimdışı esenlik ve spor aracı. Android, iOS ve Web. Tıbbi cihaz değildir."
+description: "Sağlık ve Spor merkez uygulaması: 35 çevrimdışı esenlik ve spor aracı. Android, iOS ve Web. Tıbbi cihaz değildir."
 publish_to: none
 version: 1.0.0+1
 
@@ -18,7 +18,7 @@ dependencies:
   saglik_motoru:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
-      ref: 6f6516d8fadb4f2b2f95c29f9b2112f8f0e5e2af
+      ref: 87853cb20735761a0cab6fed4753dddc423f1c1b
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_adim_sayar:
     git:
@@ -152,6 +152,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-yuruyus-rotalari
       ref: c27be81b3f9db7dd2ad61edfde483c869a6e7b7b
+  uyg_duvar_pilatesi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-duvar-pilatesi
+      ref: 07f411fd68cb0ac05eb854aa5e415c7b261caa3b
+  uyg_uyku_sesi_kaydi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-uyku-sesi-kaydi
+      ref: 4efe1ec25d3f90500107a3d4863ed19bc5add840
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -169,7 +177,7 @@ dependency_overrides:
   saglik_motoru:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
-      ref: 4552890ac15c894679097cce3d9c229022677126
+      ref: 87853cb20735761a0cab6fed4753dddc423f1c1b
 
 dev_dependencies:
   flutter_test:

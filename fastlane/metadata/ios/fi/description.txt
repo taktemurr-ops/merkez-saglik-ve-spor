@@ -1,10 +1,9 @@
-33 offline-työkalua hyvinvointiin ja liikuntaan
+35 offline-työkalua hyvinvointiin ja liikuntaan
 
-• Liike: Askelmittari, Intervalliajastin, Kotitreeni, Venyttelyohjelmat, Joogasarjat, Juoksuseuranta, Pyöräilyseuranta, Voimaharjoittelupäiväkirja, 30 päivän haaste, Kävelyreitit
+• Liike: Askelmittari, Intervalliajastin, Kotitreeni, Venyttelyohjelmat, Joogasarjat, Juoksuseuranta, Pyöräilyseuranta, Voimaharjoittelupäiväkirja, 30 päivän haaste, Kävelyreitit, Seinäpilates
 • Ravinto: Juomamuistutus, Painopäiväkirja, BMI-laskuri, Kalorilaskuri, Pätkäpaastoajastin, Makrolaskuri, Kofeiiniseuranta
-• Mieli ja uni: Unipäiväkirja, Hengitä ja rentoudu, Lopeta tupakointi, Mielialapäiväkirja, Kiitollisuuspäiväkirja, Unipäiväkirja unista
+• Mieli ja uni: Unipäiväkirja, Hengitä ja rentoudu, Lopeta tupakointi, Mielialapäiväkirja, Kiitollisuuspäiväkirja, Unipäiväkirja unista, Unen äänipäiväkirja
 • Seuranta ja testit: Verenpaine- ja sokeripäiväkirja, Lääkemuistutus, Silmäjumppa, Näkö- ja värikoe, Kuulotesti, Ryhtimuistutus, Pulssiarvio (kamera)
 • Urheilutyökalut: Shakkikello, Turnaussuunnittelija, Hammaspesuajastin
 
 Vain tiedoksi ja hyvinvoinnin tueksi; ei lääkinnällinen laite. Kysy terveysasioissa ammattilaiselta.
-Ei diagnosoi, hoida eikä ehkäise sairauksia; esimerkiksi syke on vain arvio.

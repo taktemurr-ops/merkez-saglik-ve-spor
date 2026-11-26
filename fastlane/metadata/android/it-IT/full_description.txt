@@ -1,8 +1,8 @@
-33 strumenti offline per benessere e sport
+35 strumenti offline per benessere e sport
 
-• Movimento: Contapassi, Timer a intervalli, Allenamento a casa, Routine di stretching, Sequenze di yoga, Tracker di corsa, Tracker per bici, Diario di allenamento con pesi, Sfida 30 giorni, Percorsi a piedi
+• Movimento: Contapassi, Timer a intervalli, Allenamento a casa, Routine di stretching, Sequenze di yoga, Tracker di corsa, Tracker per bici, Diario di allenamento con pesi, Sfida 30 giorni, Percorsi a piedi, Pilates al muro
 • Nutrizione: Promemoria acqua, Diario del peso, Calcolo IMC, Contacalorie, Timer del digiuno, Calcolatore di macro, Monitor della caffeina
-• Mente e sonno: Diario del sonno, Respira e rilassati, Smettere di fumare, Diario dell'umore, Diario della gratitudine, Diario dei sogni
+• Mente e sonno: Diario del sonno, Respira e rilassati, Smettere di fumare, Diario dell'umore, Diario della gratitudine, Diario dei sogni, Diario dei suoni del sonno
 • Diari e test: Diario pressione e glicemia, Promemoria farmaci, Esercizi per gli occhi, Test di vista e colori, Test dell'udito, Promemoria postura, Stima del battito (fotocamera)
 • Strumenti sportivi: Orologio per scacchi, Pianificatore di tornei, Timer per lavare i denti
 

@@ -1,7 +1,7 @@
 # Sağlık ve Spor · Health & Fitness (merkez-saglik-ve-spor)
 
-Sağlık ve Spor ailesinin **merkez uygulaması**: 33 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "33 Uygulama",
+Sağlık ve Spor ailesinin **merkez uygulaması**: 35 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "35 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [saglik-motoru](https://github.com/taktemurr-ops/saglik-motoru)
@@ -18,7 +18,11 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
   susturulur. Ayrı yayımlanacaksa **Families politikası** (`AdsService.init(child: true)`, Families
   sertifikalı reklam SDK'sı) uygulanmalıdır.
 - İzinler: etkinlik tanıma (adım), kamera (nabız tahmini), konum yalnızca ön planda (koşu/bisiklet),
-  bildirim. Arka plan konumu, ön plan hizmeti ve kesin alarm istenmez.
+  mikrofon (yalnızca Uyku Sesi Kaydı, gece kaydı açıkken), bildirim. Arka plan konumu, ön plan hizmeti ve
+  kesin alarm istenmez.
+- 4. tur: Duvar Pilatesi (kodla çizilmiş duvar hareketleri, 28 günlük plan) ve Uyku Sesi Kaydı (esenlik
+  günlüğü: ses olayları ve isteğe bağlı kesitler yalnızca cihazda; horlama/apne tespiti ya da teşhisi yok;
+  kayıt sırasında ekran açık kalır, web'de desteklenmez).
 - Nabız ölçer "eğlence/esenlik amaçlı tahmin" olarak sunulur (iOS 1.4.1 riski: reddedilirse yalnız Android).
 - Görme/renk ve işitme testleri özgün desen ve tonlar kullanır (Ishihara kopyası yok, dB HL iddiası yok).
 - Mevcut 7 depo taşındı: app-001-health-universe, app-002-fitness-universe, app-003, app-004, app-005,
@@ -59,3 +63,5 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | 30 Gün Meydan Okuma | [uyg-30-gun-meydan-okuma](https://github.com/taktemurr-ops/uyg-30-gun-meydan-okuma) |
 | Kafein Takibi | [uyg-kafein-takibi](https://github.com/taktemurr-ops/uyg-kafein-takibi) |
 | Yürüyüş Rotaları | [uyg-yuruyus-rotalari](https://github.com/taktemurr-ops/uyg-yuruyus-rotalari) |
+| Duvar Pilatesi | [uyg-duvar-pilatesi](https://github.com/taktemurr-ops/uyg-duvar-pilatesi) |
+| Uyku Sesi Kaydı | [uyg-uyku-sesi-kaydi](https://github.com/taktemurr-ops/uyg-uyku-sesi-kaydi) |
