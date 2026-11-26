@@ -34,6 +34,7 @@ import 'package:uyg_yoga_akislari/uyg_yoga_akislari.dart';
 import 'package:uyg_30_gun_meydan_okuma/uyg_30_gun_meydan_okuma.dart';
 import 'package:uyg_kafein_takibi/uyg_kafein_takibi.dart';
 import 'package:uyg_yuruyus_rotalari/uyg_yuruyus_rotalari.dart';
+import 'store_flavor.dart';
 
 /// Sağlık ve Spor: 33 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
@@ -84,4 +85,7 @@ final hubConfig = AppHubConfig(
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-saglik-ve-spor/blob/main/PRIVACY.md',
 );
 
-void main() => bootstrapAppHub(hubConfig);
+void main() {
+  registerStoreFlavor();
+  bootstrapAppHub(hubConfig);
+}
