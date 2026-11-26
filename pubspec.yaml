@@ -155,11 +155,11 @@ dependencies:
   uyg_duvar_pilatesi:
     git:
       url: https://github.com/taktemurr-ops/uyg-duvar-pilatesi
-      ref: 07f411fd68cb0ac05eb854aa5e415c7b261caa3b
+      ref: 48479ae8653faa9b1d43f970528462b7e602ed17
   uyg_uyku_sesi_kaydi:
     git:
       url: https://github.com/taktemurr-ops/uyg-uyku-sesi-kaydi
-      ref: 4efe1ec25d3f90500107a3d4863ed19bc5add840
+      ref: 183680dd5881fee77b477e356b6155ff51b61a48
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
