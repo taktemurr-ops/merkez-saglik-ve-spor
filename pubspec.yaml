@@ -13,12 +13,12 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
   # Araçların ortak motoru
   saglik_motoru:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
-      ref: f616d53d25990a0f092f60d12498faf8ba4d4dac
+      ref: 6e162414b07d26110f65d4d6633750f1790d89dc
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_adim_sayar:
     git:
@@ -165,11 +165,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
   saglik_motoru:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
-      ref: f616d53d25990a0f092f60d12498faf8ba4d4dac
+      ref: 6e162414b07d26110f65d4d6633750f1790d89dc
 
 dev_dependencies:
   flutter_test:
