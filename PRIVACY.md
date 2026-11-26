@@ -1,6 +1,6 @@
 # Gizlilik Politikası · Privacy Policy — Sağlık ve Spor / Health & Fitness
 
-_Son güncelleme / Last updated: 2026-11-25_
+_Son güncelleme / Last updated: 2026-11-26_
 
 ## Türkçe
 - Bu uygulama **tıbbi cihaz değildir**; teşhis, tedavi, ölçüm doğruluğu ya da ilaç dozu iddiası yoktur. Her ekranda bu uyarı görünür.
@@ -33,5 +33,13 @@ _Son güncelleme / Last updated: 2026-11-25_
 - In-app purchases are processed by Google Play / App Store; we never see payment details.
 - Profile → "Delete all my data" removes everything stored on the device.
 - No gambling, games of chance or 18+ content.
+
+## Ek: Veri akışı ve güvenlik / Addendum: data flows and security
+
+### Türkçe
+- **Yedekleme:** Kayıtlarınız Google bulut yedeğine (Android otomatik yedekleme) alınmaz. Yeni telefona geçerken yalnızca cihazdan cihaza doğrudan aktarımda (kablo/yakın cihaz) taşınır.
+
+### English
+- **Backup:** Your records are not included in Google cloud backup (Android Auto Backup). When switching phones they move only with a direct device-to-device transfer (cable/nearby device).
 
 İletişim / Contact: (yayıncı e-posta adresi / publisher e-mail)
